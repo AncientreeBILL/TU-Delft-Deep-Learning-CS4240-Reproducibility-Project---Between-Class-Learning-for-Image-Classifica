@@ -19,4 +19,4 @@ Due to the limits of the size, [cifar_10 and cifar_100](https://www.cs.toronto.e
 ~~~
 
 ## More Imformation
-More information of our project is in the blog.
+More information of our project is in the [blog](https://yxmshr.wordpress.com/2020/04/15/deep-learning-rp-group-17/).
